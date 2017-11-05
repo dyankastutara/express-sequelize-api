@@ -1,0 +1,29 @@
+{
+  "name": "express-sequelize-api",
+  "version": "0.0.1",
+  "description": "training make api with orm sequelize and database postgre sql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyankastutara/express-sequelize-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dyankastutara/express-sequelize-api/issues"
+  },
+  "homepage": "https://github.com/dyankastutara/express-sequelize-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.1.0",
+    "pg": "^7.4.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.22.5"
+  }
+}
