@@ -4,6 +4,7 @@
   "description": "training make api with orm sequelize and database postgre sql",
   "main": "app.js",
   "scripts": {
+    "start":"nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
